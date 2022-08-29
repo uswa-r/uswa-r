@@ -1,8 +1,7 @@
 <h1>Hi there!</h1>
 
 
-<h4>I'm Uswa, a passionate junior Angular Developer, (with 1yr of experience in) designing Dynamic Single-Page applications using:
-
+<h4>I'm Uswa, a passionate junior <b>Angular Developer</br>, (with 1yr of experience in) designing Dynamic Single-Page applications using:
 - HTML5
 - CSS3
 - Bootstrap 5
@@ -11,7 +10,6 @@
 - TypeScript (with Deployment)
 
 and could also develop Static Landing-Pages using:
-
 - HTML5
 - CSS3
 - Bootstrap 5 (including JavaScript & Deployment)
