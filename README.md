@@ -1,7 +1,7 @@
-<h1>Hi there!</h1>
+<h2>Hi there!</h2>
 
 
-<h3>I'm Uswa, a passionate junior Angular Developer, (with 1yr of experience in) designing Dynamic Single-Page applications using:
+<h4>I'm Uswa, a passionate junior Angular Developer, (with 1yr of experience in) designing Dynamic Single-Page applications using:
   
 - HTML5
 - CSS3
@@ -26,7 +26,7 @@ Thank you for checking out my GitHub profile. I hope you have a great day!
 Best regards,
 
 
-Uswa R. </h3>
+Uswa R. </h4>
 
 
 
