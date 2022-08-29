@@ -21,7 +21,7 @@ I'm currently learning the Backend (Full Stack Development (MEAN), which will en
 To boost my experience, I'm looking for an internship in Front-end or Angular development.
 
 
-Thank you for checking out my LinkedIn profile. I hope you have a great day!
+Thank you for checking out my GitHub profile. I hope you have a great day!
 
 Best regards,
 
