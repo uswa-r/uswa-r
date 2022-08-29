@@ -1,7 +1,7 @@
 <h1>Hi there!</h1>
 
 
-<h4>I'm Uswa, a passionate junior <b>Angular Developer</b>, (with 1yr of experience in) designing Dynamic Single-Page applications using:
+<h4>I'm Uswa, a passionate junior Angular Developer, (with 1yr of experience in) designing Dynamic Single-Page applications using:
 - HTML5
 - CSS3
 - Bootstrap 5
